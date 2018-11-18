@@ -1,0 +1,41 @@
+body {
+    background: url("../images/344820-PADG19-309.jpg");
+    color: white;
+    font-family: 'Pangolin', cursive;
+
+    /* Created by Freepik */
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    font-size: 18px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    margin-left: 25px;
+}
+
+#submit-button {
+    margin-top: 15px;
+    margin-left: 0;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+img {
+    height: 200px;
+}
